@@ -1,0 +1,36 @@
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.deps.json
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.dll
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.dll
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\refint\BulkyBook.Utility.dll
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\acer\Desktop\Projects\New folder\Bulky\BulkyBook.Utility\obj\Debug\net7.0\ref\BulkyBook.Utility.dll
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.deps.json
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.dll
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.dll
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\refint\BulkyBook.Utility.dll
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Dev\dotnet\test\Bulky\BulkyBook.Utility\obj\Debug\net7.0\ref\BulkyBook.Utility.dll
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.deps.json
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.dll
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\bin\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.dll
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\refint\BulkyBook.Utility.dll
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\admin\Desktop\Bulky\BulkyBook.Utility\obj\Debug\net7.0\ref\BulkyBook.Utility.dll
